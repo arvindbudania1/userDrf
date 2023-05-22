@@ -1,1 +1,1 @@
-web: gunicorn
+web: gunicorn user_form_project.wsgi
